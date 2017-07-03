@@ -180,7 +180,7 @@ function enviarDatos(){
 }
 ```
 
-* <i>Capturas</i>
+## Imágenes
 
 <p align="center">
 	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img1.png" width="1280" height="550">
