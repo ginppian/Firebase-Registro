@@ -8,7 +8,7 @@ Firebase Registro Asistentes
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img5.png" width="1280" height="640">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img5.png" width="1280" height="600">
 </p>
 
 ## Técnico
