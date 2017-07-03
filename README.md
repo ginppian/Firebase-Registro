@@ -8,7 +8,7 @@ Firebase Registro Asistentes
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img5.png" width="1280" height="740">
 </p>
 
 ## Técnico
@@ -178,32 +178,32 @@ function enviarDatos(){
 ```
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img1.png" width="1280" height="740">
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img2.png" width="1280" height="740">
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img3.png" width="1280" height="740">
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img4.png" width="1280" height="740">
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img5.png" width="1280" height="740">
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img6.png" width="1280" height="740">
 </p>
 
 ## Conclusión
 
-La plataforma de <i>Firebase</i> es realmente muy sencilla de implementar, y muy útil para proyectos <i>simples</i> de tiempo real.
+La plataforma de <i>Firebase</i> es realmente muy sencilla de implementar. Muy útil para proyectos <i>simples</i> que requieran procesos de tiempo real como: un <i>registro</i>, un <i>chat</i>, consultar información dónde sabemos de andemos sus  <i>IDs</i> etc.
 
 ## Contacto
 
