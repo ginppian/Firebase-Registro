@@ -181,27 +181,27 @@ function enviarDatos(){
 ```
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img1.png" width="1280" height="740">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img1.png" width="1280" height="600">
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img2.png" width="1280" height="740">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img2.png" width="1280" height="600">
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img3.png" width="1280" height="740">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img3.png" width="1280" height="600">
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img4.png" width="1280" height="740">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img4.png" width="1280" height="600">
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img5.png" width="1280" height="740">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img5.png" width="1280" height="600">
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img6.png" width="1280" height="740">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img6.png" width="1280" height="600">
 </p>
 
 ## Conclusión
