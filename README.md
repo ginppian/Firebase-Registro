@@ -8,7 +8,7 @@ Firebase Registro Asistentes
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img5.png" width="1280" height="740">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img5.png" width="1280" height="640">
 </p>
 
 ## Técnico
@@ -24,6 +24,7 @@ Firebase Registro Asistentes
 ## Código
 
 * <i>Existe Usuario</i>
+
 ```Javascript
 function existeUsuario(id){
   var rootRef = firebase.database().ref();
@@ -37,6 +38,7 @@ function existeUsuario(id){
 ```
 
 * <i>Escribir Información Usuario</i>
+
 ```Javascript
 function writeUserData(id) {
     //alert("writeUserData");
@@ -51,7 +53,7 @@ function writeUserData(id) {
     totalHoras: "00:00:00"
   });
 }
-``
+```
 
 * <i>Actualiza Información Usuario y Obtiene la DIFERENCIA de Hrs</i>
 
@@ -141,6 +143,7 @@ function updateUserData(id){
 ```
 
 * <i>Guarda Información Usuario</i>
+
 ```
 function enviarDatos(){
   var caja = document.getElementById("cajaTexto");
