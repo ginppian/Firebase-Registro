@@ -144,7 +144,7 @@ function updateUserData(id){
 
 * <i>Guarda Información Usuario</i>
 
-```
+```Javascript
 function enviarDatos(){
   var caja = document.getElementById("cajaTexto");
   var matricula = $('#cajaTexto').val();
@@ -181,15 +181,15 @@ function enviarDatos(){
 ```
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img1.png" width="1280" height="600">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img1.png" width="1280" height="550">
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img2.png" width="1280" height="600">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img2.png" width="1280" height="550">
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img3.png" width="1280" height="600">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img3.png" width="1280" height="550">
 </p>
 
 <p align="center">
@@ -201,7 +201,7 @@ function enviarDatos(){
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img6.png" width="1280" height="600">
+	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img6.png" width="1280" height="550">
 </p>
 
 ## Conclusión
