@@ -18,7 +18,7 @@ Firebase Registro Asistentes
 </p>
 
 <p align="justify">
-<i>PS:</i> La app <b>no necesitar estar alojada en un servidor</b> se puede correr desde local en <i>index.html</i> 
+<i>PS:</i> La app <b>no necesitar estar alojada en un servidor</b> se puede correr desde local en: <i>index.html</i> 
 </p>
 
 ## Código
@@ -180,6 +180,8 @@ function enviarDatos(){
 }
 ```
 
+* <i>Capturas</i>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Firebase-Registro/blob/master/imgs/img1.png" width="1280" height="550">
 </p>
@@ -206,7 +208,7 @@ function enviarDatos(){
 
 ## Conclusión
 
-La plataforma de <i>Firebase</i> es realmente muy sencilla de implementar. Muy útil para proyectos <i>simples</i> que requieran procesos de tiempo real como: un <i>registro</i>, un <i>chat</i>, consultar información dónde sabemos de andemos sus  <i>IDs</i> etc.
+La plataforma de <i>Firebase</i> es realmente muy sencilla de implementar. Muy útil para proyectos <i>simples</i> que requieran procesos de tiempo real como: un <i>registro</i>, un <i>chat</i>, consultar información dónde sabemos de antemano sus  <i>IDs</i>, etc.
 
 ## Contacto
 
